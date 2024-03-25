@@ -101,3 +101,19 @@ $ sed -i 's|<script src="index.js"></script>|<script src="enable-threads.js"></s
 ## LICENSE
 
 GNU General Public License v3.0
+
+## bilibili
+
+Global Game Jam 2024 深圳凉屋站 线下作品
+主题: Make Me Laugh
+
+由{布尔运算式}启发的解谜游戏 =P 玩家通过在算数式中填入不同的元素 ;-) 让表达式恒为真的同时 :-> 式子中的某个部分能够构成笑脸的颜文字
+
+在线试玩：https://ligen131.github.io/equal_to_p/ （暂时只支持PC浏览器）
+开源仓库地址：https://github.com/ligen131/equal_to_p
+
+团队 玩一个四字音游导致的
+@Tsukimaru - 程序, 音乐音效
+@加油的希望 - 程序
+@Bunnycxk - 程序, 关卡
+@IsaacTheMouse - 美术
